@@ -7,3 +7,6 @@
 [submodule "Graph"]
 	path = Graph
 	url = https://github.com/Itsbeenalongday/Graph.git
+[submodule "Brute-Force"]
+	path = Brute-Force
+	url = https://github.com/Itsbeenalongday/Brute-Force.git

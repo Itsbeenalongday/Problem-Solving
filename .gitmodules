@@ -46,3 +46,6 @@
 [submodule "ACM-ICPC-Algorithms"]
 	path = ACM-ICPC-Algorithms
 	url = https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms.git
+[submodule "coding_test"]
+	path = coding_test
+	url = https://github.com/Itsbeenalongday/python-for-coding-test.git

@@ -23,7 +23,7 @@ while true; do
         continue
     fi 
 done
-if [ $option == "y" ]; then
+if [ "$option" == "y" ]; then
     git remote remove upstream
     echo -en "please type remote repository url >>> "
     read url
@@ -47,7 +47,7 @@ if [ $option == "y" ]; then
     echo -e "\n"
     echo "*** pushing successfully done ***"
     echo -e "\n"
-elif [ $option == "n" ]; then
+elif [ "$option" == "n" ]; then
     echo "*** fetch remote repository ***"
     echo -e "\n"
     git fetch upstream

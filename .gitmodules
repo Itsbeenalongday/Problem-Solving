@@ -43,3 +43,6 @@
 [submodule "2020-winter-vacation-Baekjoon"]
 	path = 2020-winter-vacation-Baekjoon
 	url = https://github.com/Itsbeenalongday/2020-winter-vacation-Baekjoon.git
+[submodule "ACM-ICPC-Algorithms"]
+	path = ACM-ICPC-Algorithms
+	url = https://github.com/Itsbeenalongday/ACM-ICPC-Algorithms.git

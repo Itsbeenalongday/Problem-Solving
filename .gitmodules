@@ -13,3 +13,9 @@
 [submodule "String"]
 	path = String
 	url = https://github.com/Itsbeenalongday/String.git
+[submodule "Implement"]
+	path = Implement
+	url = https://github.com/Itsbeenalongday/Implement.git
+[submodule "Simulation"]
+	path = Simulation
+	url = https://github.com/Itsbeenalongday/Simulation.git

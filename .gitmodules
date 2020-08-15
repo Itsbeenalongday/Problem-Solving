@@ -28,3 +28,6 @@
 [submodule "Stack"]
 	path = Stack
 	url = https://github.com/Itsbeenalongday/Stack.git
+[submodule "Queue"]
+	path = Queue
+	url = https://github.com/Itsbeenalongday/Queue.git

@@ -22,3 +22,9 @@
 [submodule "Greedy"]
 	path = Greedy
 	url = https://github.com/Itsbeenalongday/Greedy.git
+[submodule "Math"]
+	path = Math
+	url = https://github.com/Itsbeenalongday/Mathematical-theory.git
+[submodule "Stack"]
+	path = Stack
+	url = https://github.com/Itsbeenalongday/Stack.git

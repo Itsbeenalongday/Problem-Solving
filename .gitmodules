@@ -19,3 +19,6 @@
 [submodule "Simulation"]
 	path = Simulation
 	url = https://github.com/Itsbeenalongday/Simulation.git
+[submodule "Greedy"]
+	path = Greedy
+	url = https://github.com/Itsbeenalongday/Greedy.git

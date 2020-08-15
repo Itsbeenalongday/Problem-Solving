@@ -37,3 +37,6 @@
 [submodule "C-Star-Wars"]
 	path = C-Star-Wars
 	url = https://github.com/Itsbeenalongday/C-Star-Wars.git
+[submodule "2019-summer-vacation-Baekjoon"]
+	path = 2019-summer-vacation-Baekjoon
+	url = https://github.com/Itsbeenalongday/2019-summer-vacation-Baekjoon.git

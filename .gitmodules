@@ -1,3 +1,6 @@
 [submodule "DP"]
 	path = DP
 	url = https://github.com/Itsbeenalongday/Dynamic-Programming.git
+[submodule "Sorting"]
+	path = Sorting
+	url = https://github.com/Itsbeenalongday/Sorting.git

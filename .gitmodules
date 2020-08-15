@@ -10,3 +10,6 @@
 [submodule "Brute-Force"]
 	path = Brute-Force
 	url = https://github.com/Itsbeenalongday/Brute-Force.git
+[submodule "String"]
+	path = String
+	url = https://github.com/Itsbeenalongday/String.git

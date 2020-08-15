@@ -34,3 +34,6 @@
 [submodule "Deque"]
 	path = Deque
 	url = https://github.com/Itsbeenalongday/Deque.git
+[submodule "C-Star-Wars"]
+	path = C-Star-Wars
+	url = https://github.com/Itsbeenalongday/C-Star-Wars.git

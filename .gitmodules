@@ -49,3 +49,6 @@
 [submodule "coding_test"]
 	path = coding_test
 	url = https://github.com/Itsbeenalongday/python-for-coding-test.git
+[submodule "Coding-test-Note"]
+	path = Coding-test-Note
+	url = https://github.com/Itsbeenalongday/Coding-test-Note.git

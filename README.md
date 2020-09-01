@@ -96,3 +96,15 @@ A 기계에서 테스트했을 때는 정상작동하지만 B 기계에서는 �
 2. 자료구조, 수열을 다루는 문제에서 공통되는 부분이 있다면 그 부분을 묶어서 최대한 반복회수를 줄이자
 
 3. 연산관련 문제에서 1로 만든다거나 등등 줄여나가는 문제에서 배수, 약수를 생각해보자
+
+## Reference
+
+<div align="center">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matthewsamuel95&repo=ACM-ICPC-Algorithms&theme=radical)](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ndb796&repo=python-for-coding-test&theme=radical)](https://github.com/ndb796/python-for-coding-test.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python&theme=radical)](https://github.com/TheAlgorithms/Python.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=radical)](https://github.com/TheAlgorithms/Java.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Plus-Plus&theme=radical)](https://github.com/TheAlgorithms/C-Plus-Plus.git)
+
+</div>

@@ -46,6 +46,3 @@
 [submodule "Binary-Search"]
 	path = Binary-Search
 	url = https://github.com/Itsbeenalongday/Binary-Search.git
-[submodule "Shortest-path"]
-	path = Shortest-path
-	url = https://github.com/Itsbeenalongday/Shortest-path.git

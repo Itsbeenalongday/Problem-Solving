@@ -46,3 +46,6 @@
 [submodule "Binary-Search"]
 	path = Binary-Search
 	url = https://github.com/Itsbeenalongday/Binary-Search.git
+[submodule "Programmers"]
+	path = Programmers
+	url = https://github.com/Itsbeenalongday/Programmers.git

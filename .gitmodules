@@ -49,3 +49,6 @@
 [submodule "Programmers"]
 	path = Programmers
 	url = https://github.com/Itsbeenalongday/Programmers.git
+[submodule "Go_NAKARAKUBE"]
+	path = Go_NAKARAKUBE
+	url = https://github.com/Itsbeenalongday/Go_NAKARAKUBE.git

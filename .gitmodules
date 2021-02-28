@@ -52,3 +52,6 @@
 [submodule "Go_NAKARAKUBE"]
 	path = Go_NAKARAKUBE
 	url = https://github.com/Itsbeenalongday/Go_NAKARAKUBE.git
+[submodule "Go_nakalacoubae_PS"]
+	path = Go_nakalacoubae_PS
+	url = https://github.com/Itsbeenalongday/Go_nakalacoubae_PS.git
